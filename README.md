@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Gustavo 👋
 
-<!--
-**gustavo-rojo/gustavo-rojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales en la **ESCOM-IPN**, en la Ciudad de México.
+Me interesa el desarrollo de software, sobre todo web, y estoy construyendo la base para especializarme en ciberseguridad.
 
-Here are some ideas to get you started:
+## 🔨 En lo que estoy trabajando
+- **Akandix:** plataforma web SaaS para administrar academias pequeñas y medianas.
+- **Videojuego tycoon en Godot:** simulador de un taller de hojalatería y pintura.
+- Un sitio web para una empresa del sector automotriz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Lo que estoy aprendiendo
+- Desarrollo web full stack
+- Git y flujo de trabajo con ramas y Pull Requests
+- Fundamentos de redes y seguridad de aplicaciones
+
+## 🛠️ Con lo que he trabajado
+C · Diseño digital · Git · Godot . Programación Orientada a Objetos
+
+## 📫 Contacto
+[Correo:] rojohernandezgustavo@gmail.com
